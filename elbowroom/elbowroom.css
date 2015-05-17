@@ -1,0 +1,99 @@
+/* Elbowroom CSS Layout Styling System by Andrew Biddinger */ 
+
+.buffer {
+	padding: 15px;
+}
+.buffer-top {
+	 margin-top: 15px;
+}
+.buffer-right {
+	 margin-right: 15px;
+}
+.buffer-left {
+	 margin-left: 15px;
+}
+.buffer-bottom {
+	 margin-bottom: 15px;
+}
+
+.bosom {
+	padding: 15px;
+}
+
+.bosom-top {
+	 padding-top: 15px;
+}
+.bosom-right {
+	 padding-right: 15px;
+}
+.bosom-left {
+	 padding-left: 15px;
+}
+.bosom-bottom {
+	 padding-bottom: 15px;
+}
+
+.buffer-md {
+	padding: 30px;
+}
+
+.buffer-top-md {
+	 margin-top: 30px;
+}
+.buffer-right-md {
+	 margin-right: 30px;
+}
+.buffer-left-md {
+	 margin-left: 30px;
+}
+.buffer-bottom-md {
+	 margin-bottom: 30px;
+}
+
+.bosom-md {
+	padding: 30px;
+}
+
+.bosom-top-md {
+	 padding-top: 30px;
+}
+.bosom-right-md {
+	 padding-right: 30px;
+}
+.bosom-left-md {
+	 padding-left: 30px;
+}
+.bosom-bottom-md {
+	 padding-bottom: 30px;
+}
+
+.buffer-lg {
+	padding: 45px;
+}
+.buffer-top-lg {
+	 margin-top: 45px;
+}
+.buffer-right-lg {
+	 margin-right: 45px;
+}
+.buffer-left-lg {
+	 margin-left: 45px;
+}
+.buffer-bottom-lg {
+	 margin-bottom: 45px;
+}
+.bosom-lg {
+	padding: 45px;
+}
+.bosom-top-lg {
+	 padding-top: 45px;
+}
+.bosom-right-lg {
+	 padding-right: 45px;
+}
+.bosom-left-lg {
+	 padding-left: 45px;
+}
+.bosom-bottom-lg {
+	 padding-bottom: 45px;
+}
