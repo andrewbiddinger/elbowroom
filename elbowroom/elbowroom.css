@@ -1,7 +1,59 @@
 /* Elbowroom CSS Layout Styling System by Andrew Biddinger */ 
 
+.buffer-sm {
+	margin: 8px;
+}
+.buffer-top-sm {
+	 margin-top: 8px;
+}
+.buffer-right-sm {
+	 margin-right: 8px;
+}
+.buffer-left-sm {
+	 margin-left: 8px;
+}
+.buffer-bottom-sm {
+	 margin-bottom: 8px;
+}
+
+.anti-buffer-sm {
+	margin: -8px;
+}
+.anti-buffer-top-sm {
+	 margin-top: -8px;
+}
+.anti-buffer-right-sm {
+	 margin-right: -8px;
+}
+.anti-buffer-left-sm {
+	 margin-left: -8px;
+}
+.anti-buffer-bottom-sm {
+	 margin-bottom: -8px;
+}
+
+
+
+.bosom-sm {
+	padding: 8px;
+}
+
+.bosom-top-sm {
+	 padding-top: 8px;
+}
+.bosom-right-sm {
+	 padding-right: 8px;
+}
+.bosom-left-sm {
+	 padding-left: 8px;
+}
+.bosom-bottom-sm {
+	 padding-bottom: 8px;
+}
+
+
 .buffer {
-	padding: 15px;
+	margin: 15px;
 }
 .buffer-top {
 	 margin-top: 15px;
@@ -15,6 +67,24 @@
 .buffer-bottom {
 	 margin-bottom: 15px;
 }
+
+.anti-buffer {
+	margin: -15px;
+}
+.anti-buffer-top {
+	 margin-top: -15px;
+}
+.anti-buffer-right {
+	 margin-right: -15px;
+}
+.anti-buffer-left {
+	 margin-left: -15px;
+}
+.anti-buffer-bottom {
+	 margin-bottom: -15px;
+}
+
+
 
 .bosom {
 	padding: 15px;
@@ -34,9 +104,8 @@
 }
 
 .buffer-md {
-	padding: 30px;
+	margin: 30px;
 }
-
 .buffer-top-md {
 	 margin-top: 30px;
 }
@@ -49,6 +118,24 @@
 .buffer-bottom-md {
 	 margin-bottom: 30px;
 }
+
+
+.anti-buffer-md {
+	margin: -30px;
+}
+.anti-buffer-top-md {
+	 margin-top: -30px;
+}
+.anti-buffer-right-md {
+	 margin-right: -30px;
+}
+.anti-buffer-left-md {
+	 margin-left: -30px;
+}
+.anti-buffer-bottom-md {
+	 margin-bottom: -30px;
+}
+
 
 .bosom-md {
 	padding: 30px;
@@ -68,7 +155,7 @@
 }
 
 .buffer-lg {
-	padding: 45px;
+	margin: 45px;
 }
 .buffer-top-lg {
 	 margin-top: 45px;
@@ -82,6 +169,25 @@
 .buffer-bottom-lg {
 	 margin-bottom: 45px;
 }
+
+.anti-buffer-lg {
+	margin: -45px;
+}
+.anti-buffer-top-lg {
+	 margin-top: -45px;
+}
+.anti-buffer-right-lg {
+	 margin-right: -45px;
+}
+.anti-buffer-left-lg {
+	 margin-left: -45px;
+}
+.anti-buffer-bottom-lg {
+	 margin-bottom: -45px;
+}
+
+
+
 .bosom-lg {
 	padding: 45px;
 }
